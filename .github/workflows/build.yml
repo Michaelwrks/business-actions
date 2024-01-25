@@ -22,7 +22,7 @@ jobs:
 
 # on:
 #   push:
-#     branches: [main]
+#     branches: []
 
 # jobs:
 #   test:
