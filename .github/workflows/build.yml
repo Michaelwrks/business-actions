@@ -2,8 +2,8 @@ name: Test and Deploy
 on:
 push:
     branches: [ main ]
-jobs:
-test:
+    jobs:
+    test:
     name: Test
     runs-on: ubuntu-latest
     steps:
